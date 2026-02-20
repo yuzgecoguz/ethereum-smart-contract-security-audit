@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build
+artifacts/
+cache/
+out/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datasets (too large for git)
+datasets/
+*.csv
+*.tar.gz
+
+# Temp files
+~$*
+~WRL*
+*.tmp
