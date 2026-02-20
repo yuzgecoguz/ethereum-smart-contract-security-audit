@@ -4,12 +4,13 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-Smart%20Contracts-3C3C3D?logo=ethereum)](https://ethereum.org/)
 [![Security](https://img.shields.io/badge/Security-Vulnerability%20Analysis-red)](https://github.com/yuzgecoguz/ethereum-smart-contract-security-audit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Built in](https://img.shields.io/badge/Built%20in-2025-blue)](https://github.com/yuzgecoguz/ethereum-smart-contract-security-audit)
 
 > Comparative analysis of static and dynamic smart contract vulnerability detection tools on the Ethereum blockchain.
 
 ## Overview
 
-This repository contains the artifacts from my **MSc Cyber Security thesis** at Hoca Ahmet Yesevi International University. The research evaluates **5 industry-standard vulnerability detection tools** across **3 critical vulnerability categories** using intentionally vulnerable Solidity smart contracts and established benchmark datasets.
+This repository contains the artifacts from my **MSc Cyber Security thesis (2025)** at Hoca Ahmet Yesevi International University. The research evaluates **5 industry-standard vulnerability detection tools** across **3 critical vulnerability categories** using intentionally vulnerable Solidity smart contracts and established benchmark datasets.
 
 ### Research Question
 
