@@ -123,11 +123,12 @@ This research utilized the following established benchmark datasets (not include
 4. **SmartCheck and Oyente** show high false positive rates and limited support for modern Solidity (0.8.x)
 5. **No single tool is sufficient** — a hybrid approach combining static analysis (Slither) with dynamic analysis (Mythril) is recommended for comprehensive security assessment
 
-## Related Repository
+## Related Projects
 
-For a complete, runnable demonstration of an oracle manipulation attack using flash loans:
-
-**[oracle-manipulation-attack-demo](https://github.com/yuzgecoguz/oracle-manipulation-attack-demo)** — Full Hardhat project with test suite showing a 2.8 ETH profit attack scenario
+- [crypto-exchange-connector-library](https://github.com/yuzgecoguz/crypto-exchange-connector-library) — Unified adapter framework for 50+ exchanges (2025)
+- [crypto-triangular-arbitrage-engine](https://github.com/yuzgecoguz/crypto-triangular-arbitrage-engine) — 30-40ms triangular arbitrage engine (2022)
+- [funding-rate-arbitrage-scanner](https://github.com/yuzgecoguz/funding-rate-arbitrage-scanner) — Delta-neutral funding rate strategy (2025)
+- [oracle-manipulation-attack-demo](https://github.com/yuzgecoguz/oracle-manipulation-attack-demo) — Flash loan oracle manipulation PoC (2025)
 
 ## References
 
